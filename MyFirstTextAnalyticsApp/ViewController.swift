@@ -17,8 +17,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var inputTxtView: UITextView!
     @IBOutlet weak var outputTxtView: UITextView!
     
-    let apiKey = "30ce5170f7cd4e229eb15a5e230912fc"
-    let apiEndPoint = "https://southeastasia.api.cognitive.microsoft.com/text/analytics/v2.0/keyPhrases"
+    let apiKey = "<REPLACE_WITH_YOUR_API_KEY_HERE>"
+    let apiEndPoint = "<REPLACE_WITH_YOUR_API_ENDPOINT_HERE>" //https://southeastasia.api.cognitive.microsoft.com/text/analytics/v2.0/keyPhrases
     
     
     override func viewDidLoad() {
