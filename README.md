@@ -2,7 +2,7 @@
 This is an iOS application written in swift to analyse and extract key phrases from a set of text using Microsoft Text Analytics API
 
 
-Link to my tutorial: https://medium.com/@jiawei3e1/step-by-step-guide-with-microsoft-text-analytics-api-in-ios-application-using-swift-c71999935daa
+Link to my tutorial: https://medium.com/@TheAspiringStudentDev/step-by-step-guide-with-microsoft-text-analytics-api-in-ios-application-using-swift-c71999935daa
 
 
 How to run the application
